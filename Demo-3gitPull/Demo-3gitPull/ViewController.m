@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"你好！！！");
+    NSLog(@"这是第二版本的”你好“");
 }
 
 - (void)didReceiveMemoryWarning {
